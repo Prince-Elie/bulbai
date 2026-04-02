@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: 'Syne', sans-serif;
+  --font-body: 'Manrope', sans-serif;
+
+  --color-brand: #14063d;
+  --color-brand-secondary: #2b2151;
+  --color-brand-muted: #433a68;
+  --color-brand-dark: #0d0328;
+  --color-surface: #f6f7fb;
+}

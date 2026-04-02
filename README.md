@@ -2,6 +2,8 @@
 
 Un site web moderne et professionnel pour présenter la plateforme BulBAI, construit avec les technologies web les plus récentes.
 
+🌐 **[Voir la démo en ligne](https://bulbai-zeta.vercel.app)**
+
 ## 📋 Table des matières
 
 - [À propos](#-à-propos)
@@ -161,12 +163,7 @@ Pour toute question ou problème, veuillez :
 
 - Consulter la [documentation Next.js](https://nextjs.org/docs)
 - Ouvrir une issue sur le dépôt GitHub
-- Contacter l'équipe BulBAI
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
 
 ---
 
-**Construit avec ❤️ par l'équipe BulBAI**
+**Construit avec ❤️ par Elie ADETONA**

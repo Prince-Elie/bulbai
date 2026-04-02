@@ -148,22 +148,6 @@ Les contributions sont les bienvenues ! Pour contribuer :
 4. Poussez la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
 
-## 🏗️ Déploiement
-
-Ce projet peut être déployé sur :
-
-- **Vercel** (plateforme officielle Next.js) - [Documentation](https://vercel.com/docs)
-- **Netlify** - Configuration simple via Git
-- **Docker** - Utilisez un Dockerfile personnalisé
-- **Serveur personnel** - Build statique avec `npm run build && npm start`
-
-## 📞 Support
-
-Pour toute question ou problème, veuillez :
-
-- Consulter la [documentation Next.js](https://nextjs.org/docs)
-- Ouvrir une issue sur le dépôt GitHub
-
 ---
 
-**Construit avec ❤️ par Elie ADETONA**
+**Construit par Elie ADETONA**
